@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rokustark/Desktop/Repo/homework7/RSIlib.h
+
+/home/rokustark/Desktop/Repo/homework7/main.cpp
+iostream
+-
+string
+-
+RSIlib.h
+/home/rokustark/Desktop/Repo/homework7/RSIlib.h
+
