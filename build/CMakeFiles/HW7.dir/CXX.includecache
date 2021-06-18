@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/rokustark/Desktop/Repo/homework7/RSIlib.cpp
+iostream
+-
+
 /home/rokustark/Desktop/Repo/homework7/RSIlib.h
 
 /home/rokustark/Desktop/Repo/homework7/main.cpp
